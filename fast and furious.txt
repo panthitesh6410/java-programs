@@ -1,0 +1,15 @@
+# PROGRAMS FOR FAST AND FURIOUS: 
+
+1. program to make a calculator which perform addition,subtraction,multiplication,division.
+
+2. program to check whether a given character is vowel or consonant.
+
+3.program to add two matrix of 3x3.
+
+4.program to add 'n' numbers of terms .
+
+5.program to claculate area of different shapes like(circle,triangle,square,rectangle,rhombus).
+
+6.program to make concentric circles.
+
+7.program to convert temprature from celcius->ferhenite,kelvin->celcius, and fehrenhite->kelvin.
